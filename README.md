@@ -33,6 +33,13 @@ To ensure the GUI program could run on most computers, the model was converted t
 
 A user-friendly GUI was developed using PyQt5. The GUI allows users to select the fish species they want to detect and choose between different video input sources.
 
+## Download `Fish_Detector.exe`
+
+The `Fish_Detector.exe` file is too large to be hosted directly on GitHub. You can download it from the following link:
+
+[Download Fish_Detector.exe](https://drive.google.com/file/d/1euN73YMddiG7lyQPpD7cEW0hH92Zw1fR/view?usp=drive_link)
+
+
 ## Acknowledgements
 
 - **MATE organization, Microsoft Azure**
